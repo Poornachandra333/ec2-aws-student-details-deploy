@@ -8,7 +8,7 @@ public class Student {
 	
 	@GetMapping("/course")
 	public String courseName() {
-		return "Spring Boot";
+		return "Spring Boot Course";
 	}
 	
 }
